@@ -1,7 +1,7 @@
 # Handling Missing Data & Data Scaling
 
 
-![Housing Data Analysis](https://github.com/FerasAlsahsh/Data-Analysis-Project-Hotel-bookings/blob/main/Screenshot%202024-11-03%20192102.png)
+![Data-Analysis-Project-Hotel-bookings](https://github.com/FerasAlsahsh/Data-Analysis-Project-Hotel-bookings/blob/main/Screenshot%202024-11-03%20192102.png)
 This project is focused on handling messy data and applying data scaling techniques to standardize the data for analysis purposes. This notebook demonstrates key steps to clean, process, and scale data effectively. Below are the main components and explanations of each section.
 
 ---
